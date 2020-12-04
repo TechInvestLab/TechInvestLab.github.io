@@ -1,0 +1,103 @@
+HTML,BODY {
+	margin: 0;
+	padding 0;
+	background: #3d00a4;
+	}
+BODY.form {
+	background-image: none;
+	}
+TABLE.base {
+	background: #3d00a4 url('back1.jpg') no-repeat 20px 0;
+	width:90%;
+	max-width:1000px;
+	mix-width:600px;
+	margin:20px auto;
+	}
+.gray { COLOR: #a0a0a0; FONT-SIZE: 8pt;  FONT-WEIGHT: bold; }
+.curmenu { COLOR: #FF9D26; background-color: #2530c8; FONT-SIZE: 10pt; FONT-WEIGHT: bold;   text-align: center;}
+.curmenu a, .curmenu a:visited { COLOR: #ffffff; }
+.menu { COLOR: #ffffff; BACKGROUND-COLOR: #2530c8; FONT-SIZE: 10pt; FONT-WEIGHT: bold;   text-align: center;}
+.menu a, menu a:visited { COLOR: #ffffff; }
+.headlink { COLOR: #ffffff; text-decoration: none;}
+.head { COLOR: #8dcff4; FONT-SIZE: 16pt; FONT-WEIGHT: bold;  }
+.head1 { COLOR: #8dcff4; FONT-SIZE: 12pt; FONT-WEIGHT: bold;  }
+A.head1:hover { COLOR: #FF9D26; }
+.head2 { COLOR: #ffffff; FONT-SIZE: 10pt; FONT-WEIGHT: bold;  }
+.head2 a, .head2 a:visited {COLOR: #ffffff;}
+.head3 { COLOR: #ffffff; FONT-SIZE: 8pt; FONT-WEIGHT: bold;  }
+.comm, .comm p { COLOR: #ffffff; FONT-SIZE: 8pt; FONT-WEIGHT: normal;  }
+A.button { COLOR: #ffffff; FONT-SIZE: 8pt; BACKGROUND-COLOR: #0078ff; FONT-WEIGHT: bold;  }
+.red { COLOR: red; FONT-WEIGHT: bold; }
+
+
+.c { TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.just { TEXT-ALIGN: justify
+
+}
+.searchInput
+{
+font-size: 8pt;
+border: solid 1px #ffffff;
+background-color: #3d00a4;
+color: #FFF;
+}
+.searchButton
+{
+font-size: 8pt;
+font-weight: bold;
+background-color: #FF9D26;
+color: #FFF;
+border: solid 1px #FF9D26;
+}
+INPUT.formButton {
+	background-color: #FF9D26;
+	color: #FFF;
+	border: solid 1px #FF9D26;
+	}
+.db {
+	display: block;
+	}
+UL.itemsList {
+	margin-top: 0;
+	padding-left: 0;
+	}
+UL.itemsList LI {
+	margin-bottom: 20px;
+	list-style-type: none;
+	}
+UL.itemsList B {
+	color:#FF9D26;
+	}
+UL.itemsList P {
+	margin: 5px 0;
+	}
+.pageText {
+	margin-bottom: 20px;
+	}
+div.itemUrl {
+	margin-bottom:20px;
+	}
+div.itemUrl A {
+	font-size: 150%; 
+	font-weight:bold;
+	}
+TABLE.formTable TD {
+  border-color: #FFF;
+	}
+.servTable {
+	color: #000;
+	border-color: #3d00a4;
+	}
+.servTable TD, .servTable TH,
+TABLE.formTable TD TABLE.servTable TD,
+TABLE.formTable TD TABLE.servTable TH {
+	border-color: #3d00a4;
+	}
+.servTable A {
+	color: #3d00a4;
+	text-decoration: underline;
+	}

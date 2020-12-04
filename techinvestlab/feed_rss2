@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [
+	<!ENTITY % HTMLlat1 PUBLIC
+  	"-//W3C//ENTITIES Latin 1 for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+	%HTMLlat1;
+
+	<!ENTITY % HTMLspecial PUBLIC
+  	"-//W3C//ENTITIES Special for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent">
+	%HTMLspecial;
+	
+	<!ENTITY % HTMLsymbol PUBLIC
+  	"-//W3C//ENTITIES Symbols for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent">
+	%HTMLsymbol;
+]>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>TechInvestLab.ru</title>
+	<description>Организуем организаторов</description>
+	<language>ru</language>
+	<link>http://techinvestlab.ru</link> 
+	<copyright>Copyright 2020 TechInvestLab.ru</copyright>
+	
+		<managingEditor>ailev@asmp.msk.su</managingEditor>
+	
+		<managingEditor>ailev@asmp.msk.su</managingEditor>
+	
+		<managingEditor>averale@gmail.com</managingEditor>
+	
+		<managingEditor>vic5784@gmail.com</managingEditor>
+	
+	
+	<pubDate/>
+	<lastBuildDate/>
+	
+	
+		<item>  
+			<title>Ссылка "Школа системного менеджмента"</title>
+			<link>http://techinvestlab.ru/shcsysm</link>
+			
+				<description>Новый образовательный проект с участием наших партнёров. Анатолий Левенчук стал основателем и научным руководителем Школы,  обеспечивающей современное фундаментальное &quot;образование для образованных&quot;.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>shcsysm</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Пример карты работ"</title>
+			<link>http://techinvestlab.ru/394450</link>
+			
+				<description>Пример карты действий и результатов, подготовленной ТехИнвестЛаб для реализации региональной транспортной стратегии в соответствии с методикой http://techinvestlab.ru/288349</description>
+			
+			
+			
+			<pubDate/>
+			<guid>394450</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Семинар &quot;День смычки менеджеров и инженеров&quot;"</title>
+			<link>http://techinvestlab.ru/379665</link>
+			
+				<description>&quot;День смычки менеджеров и инженеров&quot; -- однодневный семинар по системному мышлению и действию. Семинар даёт команде менеджеров и инженеров знание, как им совместно обсуждать инженерный проект в его целостности. Ведущий: Анатолий Левенчук</description>
+			
+			
+			
+			<pubDate/>
+			<guid>379665</guid>
+		</item>
+	
+		<item>  
+			<title>Ссылка "Онтология для инженерных данных"</title>
+			<link>http://techinvestlab.ru/ontinzhdata</link>
+			
+				<description>Обзор семантических и онтологических решений и архитектур для инженерных данных. Статья в журнале &laquo;Открытые системы&raquo;, № 06, 2013</description>
+			
+			
+			
+			<pubDate/>
+			<guid>ontinzhdata</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Sample Mapping and Adapter Prototyping Walk-through Guide"</title>
+			<link>http://techinvestlab.ru/SMA</link>
+			
+				<description>- Pattern-based data mapping for process diagram  - Importing sample data from process engineering tool - Exporting simplified topology diagram - Viewing Linked Data pages for the project</description>
+			
+			
+			
+			<pubDate/>
+			<guid>SMA</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Download .15926 Editor version 1.5beta release 3, .rar archive, 25M"</title>
+			<link>http://techinvestlab.ru/dot15926Editor15beta</link>
+			
+			
+			
+			<pubDate/>
+			<guid>dot15926Editor15beta</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Материалы к курсу &quot;Системноинженерное мышление&quot;"</title>
+			<link>http://techinvestlab.ru/systems_engineering_thinking</link>
+			
+				<description>Книга  А.Левенчука  &ldquo;Системноинженерное  мышление&rdquo; &mdash;  это  вторая  редакция учебника,  первая  редакция  которого  использовалась  как  в  магистерских программах  ВУЗов  (семестровый  курс  2014  года  для пятикурсников межфакультетской  кафедры  технологического  предпринимательства  МФТИ  в весеннем  семестре  2014г.,  интенсивный  курс  магистратуры  Высшей  школы инжиниринга  УрФУ  в  осеннем  семестре  2014г.),  так  и  в  системах  повышения квалификации инженеров и менеджеров (четырёхдневный тьюториал зимой-весной 2014г.  для  двух  групп  программы  Global  Professional  корпоративной  академии Росатома,  проект  повышения  квалификации  сотрудников  ВНИИХОЛОДМАШа, проектная сессия НТЦ ФСК ЕЭС). Вторая  редакция  книги  (первая  вышла  под  названием  &ldquo;Системноинженерное мышление  в  управлении  жизненным  циклом&rdquo;  в  июне  2014г.)  существенно дополнена  разделом  по  используемым  формализмам,  появились  ссылки  на материалы по отдельным практикам системной инженерии. Но и в нашей второй редакции книги внимание уделено не гладкости и художественности изложения, не качеству вёрстки и иллюстраций, и даже не попыткам понятно изложить сложный материал.  Главное  было  компактно  собрать  в  одном  тексте  &laquo;мыслительный минимум&raquo;  по  системной  инженерии,  обычно  рассыпанные  по  самым  разным источникам  знания. Специфика  этого  учебника  в  том,  что  его  содержание базируется непосредственно на международных стандартах системной инженерии, разработанных или обновлённых за последние пять-шесть лет &mdash; ISO  15288,  ISO 42010, ISO 15926, IEC 81346, OMG Essence.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>systems_engineering_thinking</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "ISO 15926 &ndash; онтология для семантического представления инженерных данных"</title>
+			<link>http://techinvestlab.ru/ISO15926OntologAndSemantic</link>
+			
+				<description>&quot;Семантика&quot; и &quot;онтология&quot; становятся популярными терминами в ИТ-сфере. Короткий текст поясняет сферу применения семантических и онтологических технологий, их связи и различия, на примере работы с данными жизненного цикла крупных инженерных проектов.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>ISO15926OntologAndSemantic</guid>
+		</item>
+	
+		<item>  
+			<title>Ссылка "Video tutorials on our YouTube channel"</title>
+			<link>http://techinvestlab.ru/do15926channel</link>
+			
+			
+			
+			<pubDate/>
+			<guid>do15926channel</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Archived version installation instructions"</title>
+			<link>http://techinvestlab.ru/300753</link>
+			
+			
+			
+			<pubDate/>
+			<guid>300753</guid>
+		</item>
+	  
+</channel>
+</rss>
+
+
+

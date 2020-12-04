@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [
+	<!ENTITY % HTMLlat1 PUBLIC
+  	"-//W3C//ENTITIES Latin 1 for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+	%HTMLlat1;
+
+	<!ENTITY % HTMLspecial PUBLIC
+  	"-//W3C//ENTITIES Special for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent">
+	%HTMLspecial;
+	
+	<!ENTITY % HTMLsymbol PUBLIC
+  	"-//W3C//ENTITIES Symbols for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent">
+	%HTMLsymbol;
+]>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>TechInvestLab.ru</title>
+	<description>Organization for Organizers</description>
+	<language>en</language>
+	<link>http://</link> 
+	<copyright>Copyright 2020 TechInvestLab.ru</copyright>
+	
+	
+	<pubDate/>
+	<lastBuildDate/>
+	
+	
+		<item>  
+			<title>File "EDRC Element 9: Life Cycle Data Management and Information Integrations (full report)"</title>
+			<link>http://techinvestlab.ru/1084191</link>
+			
+			
+			
+			<pubDate/>
+			<guid>1084191</guid>
+		</item>
+	
+		<item>  
+			<title>External "Video recording of the demo"</title>
+			<link>http://techinvestlab.ru/EDRCDemoVid</link>
+			
+			
+			
+			<pubDate/>
+			<guid>EDRCDemoVid</guid>
+		</item>
+	
+		<item>  
+			<title>External "Video of Aucotec software and adapter working with data"</title>
+			<link>http://techinvestlab.ru/EDRCAucotecVid</link>
+			
+			
+			
+			<pubDate/>
+			<guid>EDRCAucotecVid</guid>
+		</item>
+	
+		<item>  
+			<title>External "Aucotec Engineering Base"</title>
+			<link>http://techinvestlab.ru/edrcaucotecvid</link>
+			
+				<description>The EPC contractor&apos;s side (RFQ preparation and RFQ reply import) requires Aucotec Engineering Base software. If you are an Engineering Base user &ndash; please contact us to get a sample ISO 15926 adapter for the software.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>edrcaucotecvid</guid>
+		</item>
+	
+		<item>  
+			<title>File "EDRC Project Demo Data and Manual"</title>
+			<link>http://techinvestlab.ru/EDRCDemoFile</link>
+			
+				<description>The step-by-step guide published here allows to reproduce the part of the demo run on the Manufacturer&apos;s side.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>EDRCDemoFile</guid>
+		</item>
+	
+		<item>  
+			<title>Topic "Demo for the EDRC Use Case 2 (manufacturer side)"</title>
+			<link>http://techinvestlab.ru/EDRCDemoM</link>
+			
+				<description>The &quot;Capturing Equipment Data Requirements Using ISO 15926 and Assessing Conformance&quot; (EDRC) project was executed by FIATECH.  This demo was presented to the 2014 FIATECH Member Meeting in September 2014. You can download project report, project sample data, step-by-step  manual, and see demo videos.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>EDRCDemoM</guid>
+		</item>
+	
+		<item>  
+			<title>File "Sample Mapping and Adapter Prototyping Walk-through Guide"</title>
+			<link>http://techinvestlab.ru/SMA</link>
+			
+				<description>- Pattern-based data mapping for process diagram  - Importing sample data from process engineering tool - Exporting simplified topology diagram - Viewing Linked Data pages for the project</description>
+			
+			
+			
+			<pubDate/>
+			<guid>SMA</guid>
+		</item>
+	
+		<item>  
+			<title>File "Download .15926 Editor version 1.5beta release 3, .rar archive, 25M"</title>
+			<link>http://techinvestlab.ru/dot15926Editor15beta</link>
+			
+			
+			
+			<pubDate/>
+			<guid>dot15926Editor15beta</guid>
+		</item>
+	
+		<item>  
+			<title>File "Sample spreadsheets and .15926 project for mapping tutorial"</title>
+			<link>http://techinvestlab.ru/r2rmlsample</link>
+			
+				<description>This archive contains sample data used in the spreadsheet to RDF pattern mapping video tutorial available at http://youtu.be/rNQrZSulIQM .</description>
+			
+			
+			
+			<pubDate/>
+			<guid>r2rmlsample</guid>
+		</item>
+	
+		<item>  
+			<title>External "Video tutorials on our YouTube channel"</title>
+			<link>http://techinvestlab.ru/do15926channel</link>
+			
+			
+			
+			<pubDate/>
+			<guid>do15926channel</guid>
+		</item>
+	  
+</channel>
+</rss>
+
+
+

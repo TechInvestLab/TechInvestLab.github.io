@@ -1,0 +1,82 @@
+BODY {
+	font-family: Verdana, Arial, sans serif;
+	color: #FFF;
+	font-size: 10pt;
+	}
+BODY#tinymce {
+	color: #000;
+	}
+
+/* Headers */
+
+H1, H2, H3, H4, H5, H6 {
+	color: #8dcff4;
+	}
+H1 {
+	font-size: 150%;	
+	font-weight: normal;
+	}
+H2 {
+	font-size: 140%;		
+	font-weight: normal;
+	}
+H3 {
+	font-size: 130%;		
+	font-weight: normal;
+	}
+H4 {
+	font-size: 120%;		
+	}
+H5 {
+	font-size: 110%;		
+	}
+H6 {
+	font-size: 100%;		
+	}
+/* Links */
+
+A {
+	COLOR: #8dcff4;
+	text-decoration: none;
+	}
+.pageText A:hover {
+	COLOR: #FFC800;  
+	}
+.pageText A:link {
+	FONT-WEIGHT: bold; 
+	}
+.pageText A { 
+	FONT-WEIGHT: bold; 
+	}
+A.popupPic {
+	}
+A.externalLink {
+	background: url('external.gif') no-repeat right;
+	padding-right: 12px;
+	}
+
+/* Images */
+
+.pageText IMG, .mceContentBody IMG {
+	border: 1px solid #999;
+	padding: 1px;
+	background: #FFF;
+	}
+IMG.left {
+	float: left;
+	margin-right: 10px;
+	}
+IMG.right {
+	float: right;
+	margin-left: 10px;
+	}
+
+/* Text blocks */
+
+.pageText BLOCKQUOTE, .mceContentBody BLOCKQUOTE {
+	background: url('bg_blockquote_1.html') no-repeat;
+	padding-left: 35px;
+	margin-left: 0;
+	font-style: italic;
+	color: #666;
+	}
